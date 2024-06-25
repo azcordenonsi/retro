@@ -8,7 +8,7 @@ Somewhat inspired by PipBoy and old-school UNIX terminals.
 
 # Demo
 
-[See it in action here]([https://crt.no/](https://andersevenrud.github.io/retro-css-shell-demo)).
+[See it in action here](https://andersevenrud.github.io/retro-css-shell-demo).
 
 # Running
 
